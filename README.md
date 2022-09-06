@@ -20,7 +20,7 @@ In this stage, you as a frontend developer have to fetch the data and display it
 
 ### Problem Statement
 
-Fetch the details stored from contacts.json file through json-server
+Fetch the details stored from `contacts.json` file through `json-server`
 
 Display the key details, such as
 
