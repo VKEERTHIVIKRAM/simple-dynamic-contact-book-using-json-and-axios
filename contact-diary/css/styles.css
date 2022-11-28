@@ -1,1 +1,6 @@
 /* Write the style code for Contact App here */
+#contact-heading {
+    background-color: #1d514f;
+    box-shadow: 2px 2px 2px 1px lime;
+    color: #f9e1b0;
+}
